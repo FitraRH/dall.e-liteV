@@ -1,0 +1,7 @@
+Dream description: i'm drinking aqua
+Nouns: aqua
+Keywords: aqua, be, drink
+Named Entities: 
+Sentiment Score: -0.9731149673461914
+Sentiment Label: NEGATIVE
+Image Path: rsc/dream_38\generated_image.jpg
