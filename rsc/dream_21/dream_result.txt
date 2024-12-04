@@ -1,0 +1,7 @@
+Dream description: I was walking alone in a dark, abandoned city. The streets were empty, and all the buildings were crumbling and covered in graffiti. As I walked, I felt an overwhelming sense of dread and unease. I heard footsteps behind me and turned around, but no one was there. The feeling of being followed grew stronger, and I started to run, but my legs felt like they were moving through thick mud. Suddenly, a shadowy figure appeared in front of me, blocking my path. It had no face, just a dark, empty void where its features should have been. I tried to scream, but no sound came out.
+Nouns: city, street, building, sense, dread, unease, footstep, one, feeling, leg, mud, figure, front, path, face, feature, sound
+Keywords: be, and, but, in, no
+Named Entities: graffiti (PERSON)
+Sentiment Score: -0.999327540397644
+Sentiment Label: NEGATIVE
+Image Path: rsc/dream_21\generated_image.jpg

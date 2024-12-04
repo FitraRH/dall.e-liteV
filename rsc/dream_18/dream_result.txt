@@ -1,0 +1,7 @@
+Dream description: I found myself walking through a dense forest at dusk. The trees were tall, their leaves forming a thick canopy overhead, allowing only slivers of the fading sunlight to filter through. The air was cool, and the forest floor was covered with a soft layer of moss.
+Nouns: forest, dusk, tree, leave, canopy, sliver, sunlight, air, forest, floor, layer, moss
+Keywords: the, be, forest, of, through
+Named Entities: dusk (TIME)
+Sentiment Score: 0.989881694316864
+Sentiment Label: POSITIVE
+Image Path: rsc/dream_18\generated_image.jpg

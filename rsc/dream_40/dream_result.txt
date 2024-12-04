@@ -1,0 +1,7 @@
+Dream description: saya makan bakso
+Nouns: 
+Keywords: bakso, makan, saya
+Named Entities: saya makan (PERSON)
+Sentiment Score: -0.7636798620223999
+Sentiment Label: NEGATIVE
+Image Path: rsc/dream_40\generated_image.jpg

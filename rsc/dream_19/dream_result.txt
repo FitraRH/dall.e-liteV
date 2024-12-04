@@ -1,0 +1,7 @@
+Dream description: Next to the stream, there was an old wooden bridge. I hesitated for a moment but then decided to cross it. On the other side, I found a beautiful meadow filled with vibrant wildflowers of every color imaginable. The scent of the flowers was intoxicating, and I felt a sense of peace and joy.
+Nouns: stream, bridge, moment, side, meadow, wildflower, color, scent, flower, sense, peace, joy
+Keywords: the, of, and, be, to
+Named Entities: 
+Sentiment Score: 0.9998352527618408
+Sentiment Label: POSITIVE
+Image Path: rsc/dream_19\generated_image.jpg

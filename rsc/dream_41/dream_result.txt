@@ -1,0 +1,7 @@
+Dream description: ayam
+Nouns: ayam
+Keywords: ayam
+Named Entities: 
+Sentiment Score: 0.9981809854507446
+Sentiment Label: POSITIVE
+Image Path: rsc/dream_41\generated_image.jpg

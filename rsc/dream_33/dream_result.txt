@@ -1,0 +1,7 @@
+Dream description: I was standing in the middle of an enormous library, but instead of books, the shelves were filled with glowing glass bottles. Each bottle contained a tiny version of a memory from my life, swirling like liquid light. As I picked one up, it expanded in my hands and I found myself inside the memory. But things were strange—my childhood home was upside down, and the walls were made of water, gently rippling but holding their shape. I could see fish swimming through the furniture.
+Nouns: middle, library, book, shelf, glass, bottle, bottle, version, memory, life, light, hand, memory, thing, home, wall, water, shape, fish, furniture
+Keywords: be, the, of, but, my
+Named Entities: 
+Sentiment Score: 0.9961808919906616
+Sentiment Label: POSITIVE
+Image Path: rsc/dream_33\generated_image.jpg

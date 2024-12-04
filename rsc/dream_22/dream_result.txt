@@ -1,0 +1,7 @@
+Dream description: I was walking through a dense forest at night, feeling lost and anxious. Suddenly, I stumbled upon an old, abandoned house. As I entered, I noticed the walls were covered with pictures of smiling faces. I felt a strange sense of calm and decided to explore further. In one of the rooms, I found a diary that seemed to belong to a little girl. The entries talked about her happy memories in that house. As I read, I felt a deep connection to her, and when I woke up, I couldn't shake the feeling of nostalgia and longing
+Nouns: forest, night, house, wall, picture, face, sense, calm, room, diary, girl, entry, memory, house, connection, feeling, nostalgia, longing
+Keywords: and, of, the, to, feel
+Named Entities: night (TIME), one (CARDINAL)
+Sentiment Score: 0.9954866766929626
+Sentiment Label: POSITIVE
+Image Path: rsc/dream_22\generated_image.jpg

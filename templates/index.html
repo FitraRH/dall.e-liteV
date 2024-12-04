@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Image Generation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+</head>
+<body>
+    <div id="cover-container">
+        <div id="cover-content">
+            <img src="{{ url_for('static', filename='images/drm.png') }}" alt="Dream Analyzer Icon" id="cover-icon">
+            <h1>Welcome to Text Image Generation</h1>
+            <button id="enter-chat-button">Enter Chat</button>
+        </div>
+    </div>
+
+    <div id="chat-container" style="display: none;">
+        <div id="chat-header">
+            <h1>Image Generation</h1>
+            <p>Created by: Fitra Ramdhan H</p>
+            <img src="{{ url_for('static', filename='images/drm.png') }}" alt="Chat Icon" id="chat-logo">
+        </div>
+        <div id="chat-messages">
+            <!-- Initial message will be added dynamically via JavaScript -->
+        </div>
+        <div id="chat-input">
+            <textarea id="user-input" placeholder="Type your message here..."></textarea>
+            <button id="send-button">Send</button>
+        </div>
+        <div id="options">
+            <button id="tts-button">TTS: ON</button>
+            <button id="reset-button">Reset Chat</button>
+        </div>
+    </div>
+
+    <!-- Template for user messages -->
+    <template id="user-message-template">
+        <div class="message user-message"></div>
+    </template>
+    
+    <!-- Template for bot messages -->
+    <template id="bot-message-template">
+        <div class="message bot-message"></div>
+    </template>
+    
+    <!-- Template for dream analysis results -->
+    <template id="dream-analysis-template">
+        <div class="message bot-message">
+            <div class="result-section">
+                <h3>Text Analysis Results:</h3>
+                <p><strong>Nouns:</strong> <span class="nouns"></span></p>
+                <p><strong>Keywords:</strong> <span class="keywords"></span></p>
+                <p><strong>Named Entities:</strong> <span class="named-entities"></span></p>
+                <p><strong>Sentiment Score:</strong> <span class="sentiment-score"></span></p>
+                <p><strong>Sentiment Label:</strong> <span class="sentiment-label"></span></p>
+            </div>
+            <img class="dream-image" style="display: none;" alt="Generated Dream Image">
+        </div>
+    </template>
+</body>
+</html>
