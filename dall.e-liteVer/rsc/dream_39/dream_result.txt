@@ -1,7 +1,0 @@
-Dream description: im drink water
-Nouns: water
-Keywords: drink, water
-Named Entities: 
-Sentiment Score: -0.5556433796882629
-Sentiment Label: NEGATIVE
-Image Path: rsc/dream_39\generated_image.jpg

@@ -1,7 +1,0 @@
-Dream description: I found myself in a massive, decaying palace made of bones and vines. The air was thick with the stench of rot, and every step echoed through the hollow halls. As I walked deeper, I realized the walls were alive—eyes blinking from within the bone structure, following my every move. Suddenly, I was pulled into a dark room where ancient, twisted figures whispered cryptic prophecies. Their voices grew louder, until I couldn’t breathe, trapped in the nightmare of endless whispers
-Nouns: palace, bone, vine, air, stench, rot, step, hall, wall, eye, bone, structure, move, room, figure, prophecy, voice, nightmare, whisper
-Keywords: the, be, of, and, bone
-Named Entities: 
-Sentiment Score: 0.9199702739715576
-Sentiment Label: POSITIVE
-Image Path: rsc/dream_36\generated_image.jpg

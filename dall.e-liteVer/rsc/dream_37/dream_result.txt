@@ -1,7 +1,0 @@
-Dream description: kill him
-Nouns: 
-Keywords: he, kill
-Named Entities: 
-Sentiment Score: -0.9990203380584717
-Sentiment Label: NEGATIVE
-Image Path: rsc/dream_37\generated_image.jpg

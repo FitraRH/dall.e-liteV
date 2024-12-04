@@ -1,7 +1,0 @@
-Dream description: helo
-Nouns: 
-Keywords: helo
-Named Entities: helo (PERSON)
-Sentiment Score: 0.9525653719902039
-Sentiment Label: POSITIVE
-Image Path: rsc/dream_17\generated_image.jpg

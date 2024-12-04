@@ -1,7 +1,0 @@
-Dream description: I was walking through a park in my hometown. The weather was pleasant, neither too hot nor too cold. I noticed a few families having picnics and kids playing on the playground. I walked along a path lined with trees, enjoying the fresh air. I sat down on a bench for a while, watching people pass by. After some time, I decided to leave the park and head home.
-Nouns: park, hometown, weather, family, picnic, kid, playground, path, tree, air, bench, while, people, time, park, head, home
-Keywords: the, and, be, on, park
-Named Entities: 
-Sentiment Score: 0.9896655678749084
-Sentiment Label: POSITIVE
-Image Path: rsc/dream_12\generated_image.jpg

@@ -1,7 +1,0 @@
-Dream description: I was trapped in a massive, endless maze made of tall, stone walls covered in ivy. The sky above was dark and stormy, with flashes of lightning illuminating the labyrinth. I could hear the distant sound of heavy breathing and footsteps echoing through the maze. Panic set in as I realized I was being chased by something unseen. I ran as fast as I could, turning corner after corner, but the maze seemed to shift and change around me. Suddenly, I found myself in a dead end. I turned around to see a monstrous creature with glowing eyes and sharp claws approaching me. I tried to scream, but my voice was gone. Just as the creature lunged at me, I woke up in a cold sweat, heart racing.
-Nouns: maze, stone, wall, ivy, sky, flash, lightning, labyrinth, sound, breathing, footstep, maze, panic, corner, corner, maze, end, creature, eye, claw, voice, creature, sweat, heart, racing
-Keywords: the, be, in, and, as
-Named Entities: 
-Sentiment Score: -0.6390877366065979
-Sentiment Label: NEGATIVE
-Image Path: rsc/dream_30\generated_image.jpg

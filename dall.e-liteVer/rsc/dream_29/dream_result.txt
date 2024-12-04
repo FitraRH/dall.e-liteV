@@ -1,7 +1,0 @@
-Dream description: The doors opened on their own, inviting me inside. The interior was grand, with golden chandeliers and marble floors. I walked through the halls, feeling a mix of awe and curiosity. At the end of a long corridor, I entered a room filled with ancient books and artifacts. A wise, old wizard appeared and handed me a book, saying it contained the secrets of the forest and my own hidden potentials.
-Nouns: door, interior, chandelier, marble, floor, hall, mix, awe, curiosity, end, corridor, room, book, artifact, wizard, book, secret, forest, potential
-Keywords: the, and, of, book, own
-Named Entities: 
-Sentiment Score: 0.9996079802513123
-Sentiment Label: POSITIVE
-Image Path: rsc/dream_29\generated_image.jpg

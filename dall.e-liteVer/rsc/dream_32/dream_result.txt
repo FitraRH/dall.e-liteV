@@ -1,7 +1,0 @@
-Dream description: i'm eating meatballs
-Nouns: meatball
-Keywords: be, eat, meatball
-Named Entities: 
-Sentiment Score: 0.9736118912696838
-Sentiment Label: POSITIVE
-Image Path: rsc/dream_32\generated_image.jpg
